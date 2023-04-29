@@ -1,2 +1,3 @@
-# .github
+# .GitHub
+
 special repo?
